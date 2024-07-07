@@ -19,7 +19,7 @@ Safety Helmet Detection is a computer vision project that aims to enhance workpl
 
 ## Usage
 
-1.  Upload the `Safety_Helmet_Detection.ipynb` file to your Google Drive.
+1.  Upload the `Helmet_Detection.ipynb` file to your Google Drive.
 2.  Open the notebook in Google Colab.
 3.  Run the cells sequentially to:
     -   Install necessary libraries and dependencies
